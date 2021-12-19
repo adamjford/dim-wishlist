@@ -1,12 +1,12 @@
 title:Adam's Custom Rolls
 
 // Glacioclasm - Ideal PvE Roll (god-pve,pve)
-//notes: tags:god-pve,pve
+//notes: Adam's Custom Rolls: Ideal PvE Roll tags:god-pve,pve
 dimwishlist:item=1030895163&perks=3250034553,1687452232,1820235745,1427256713
 
 
 // Glacioclasm - Good PvE Rolls (pve)
-//notes: tags:pve
+//notes: Adam's Custom Rolls: PvE Rolls tags:pve
 dimwishlist:item=1030895163&perks=1482024992,2969185026,1820235745,1427256713
 dimwishlist:item=1030895163&perks=1482024992,3868766766,1820235745,1427256713
 dimwishlist:item=1030895163&perks=1482024992,1483536627,1820235745,1427256713
@@ -23,5 +23,3 @@ dimwishlist:item=1030895163&perks=3250034553,2969185026,1820235745,1427256713
 dimwishlist:item=1030895163&perks=3250034553,3868766766,1820235745,1427256713
 dimwishlist:item=1030895163&perks=3250034553,1483536627,1820235745,1427256713
 dimwishlist:item=1030895163&perks=3250034553,1687452232,1820235745,1427256713
-
-
